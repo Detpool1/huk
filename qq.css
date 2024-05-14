@@ -1,0 +1,39 @@
+*{ 
+    color: aliceblue;
+}
+body{
+background-attachment: fixed;
+background: no-repeat url('bg.png');
+background-position: center;
+background-size: cover;
+    
+}
+button {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(245, 245, 245, 0.096);
+}
+header {
+    background-color: #0009;
+}
+main {
+    background-color: #0003;
+    margin: auto 100px ;
+}
+footer {
+    background-color: #0009;
+}
+.pichi:hover{
+transition: all 2s linear;
+opacity: 1;
+box-shadow: 25px;
+
+}
+.pichi{
+    opacity: 0.2;
+}
+
+
+
+    
+
